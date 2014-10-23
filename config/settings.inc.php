@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', '127.0.0.1');
+define('_DB_NAME_', 'andrew');
+define('_DB_USER_', 'root');
+define('_DB_PASSWD_', 'adok');
+define('_DB_PREFIX_', '');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', 'DKySjMYCCwimjNwpUXIkIW6pDyGwbKqdkPGIg2VTiJy5ukPpHHgxE7UC');
+define('_COOKIE_IV_', 'FHeOzSN9');
+define('_PS_CREATION_DATE_', '2014-09-19');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', 'j2X6EjeIHNcECkmiSFa9BM7SjPYbdFL5');
+define('_RIJNDAEL_IV_', 'nRYlyyGiq8zB8J4gpdfHHQ==');
